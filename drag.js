@@ -1,6 +1,6 @@
 /**
  * @description git测试
  */
-function drag(){
-	
+function drag(id){
+	var obj = documnet.getElementById(id)
 }
